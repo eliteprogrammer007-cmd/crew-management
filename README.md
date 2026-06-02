@@ -1,5 +1,7 @@
 # crew-management
 
+Part of the Orbital Horizons Labs public engineering repositories.
+
 Prototype crew scheduling utilities. This repository was replaced by the
 Orbital Command profile service.
 
@@ -9,7 +11,8 @@ portal rollout.
 
 Related public repositories:
 
-- `telemetry-service`
-- `launch-checklist`
-- `orbital-navigation`
-- `mission-docs`
+- [Orbital Horizons Labs](https://github.com/eliteprogrammer007-cmd/orbital-horizons-labs)
+- [telemetry-service](https://github.com/eliteprogrammer007-cmd/telemetry-service)
+- [launch-checklist](https://github.com/eliteprogrammer007-cmd/launch-checklist)
+- [orbital-navigation](https://github.com/eliteprogrammer007-cmd/orbital-navigation)
+- [mission-docs](https://github.com/eliteprogrammer007-cmd/mission-docs)
